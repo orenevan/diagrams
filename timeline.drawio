@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-09T17:14:50.478Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WjSJFn6Yew3F0ESVI34p" version="21.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-09T17:20:49.993Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NEkvwb_5vs0GJxBki0AV" version="21.7.2" type="github" pages="3">
   <diagram id="k4P_a6CrURj8pyeMWI1F" name="Components ">
     <mxGraphModel dx="910" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,6 +115,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9_z21aeztV81hxE96iyp-4" value="&amp;nbsp;Release Manager and a few other users are the only ones &lt;br&gt;who can trigger a workflow on a requested Pull Request." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="30" width="340" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -136,7 +139,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PWbmjM3-0HegXmuuQ3uZ-6" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="110" y="40" width="570" height="720" as="geometry" />
+          <mxGeometry x="110" y="40" width="570" height="800" as="geometry" />
         </mxCell>
         <mxCell id="PWbmjM3-0HegXmuuQ3uZ-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PWbmjM3-0HegXmuuQ3uZ-6">
           <mxGeometry width="570" height="89" as="geometry" />
@@ -278,10 +281,38 @@
             <mxRectangle width="114" height="245" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PWbmjM3-0HegXmuuQ3uZ-37" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PWbmjM3-0HegXmuuQ3uZ-6">
+        <mxCell id="ddsjxch26x44LNvQrTgt-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PWbmjM3-0HegXmuuQ3uZ-6">
           <mxGeometry y="640" width="570" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PWbmjM3-0HegXmuuQ3uZ-38" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PWbmjM3-0HegXmuuQ3uZ-37">
+        <mxCell id="ddsjxch26x44LNvQrTgt-3" value="AWS Compute Costs&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ddsjxch26x44LNvQrTgt-2">
+          <mxGeometry width="114" height="80" as="geometry">
+            <mxRectangle width="114" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ddsjxch26x44LNvQrTgt-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ddsjxch26x44LNvQrTgt-2">
+          <mxGeometry x="114" width="111" height="80" as="geometry">
+            <mxRectangle width="111" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ddsjxch26x44LNvQrTgt-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ddsjxch26x44LNvQrTgt-2">
+          <mxGeometry x="225" width="155" height="80" as="geometry">
+            <mxRectangle width="155" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ddsjxch26x44LNvQrTgt-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ddsjxch26x44LNvQrTgt-2">
+          <mxGeometry x="380" width="76" height="80" as="geometry">
+            <mxRectangle width="76" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ddsjxch26x44LNvQrTgt-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ddsjxch26x44LNvQrTgt-2">
+          <mxGeometry x="456" width="114" height="80" as="geometry">
+            <mxRectangle width="114" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWbmjM3-0HegXmuuQ3uZ-37" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PWbmjM3-0HegXmuuQ3uZ-6">
+          <mxGeometry y="720" width="570" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PWbmjM3-0HegXmuuQ3uZ-38" value="AWS Storage&amp;nbsp;&lt;br&gt;&amp;nbsp;Costs&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PWbmjM3-0HegXmuuQ3uZ-37">
           <mxGeometry width="114" height="80" as="geometry">
             <mxRectangle width="114" height="80" as="alternateBounds" />
           </mxGeometry>
